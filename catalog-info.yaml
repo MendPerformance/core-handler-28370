@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: core-handler-28370
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/core-handler-28370
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
